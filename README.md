@@ -9,7 +9,7 @@ Hi friends,
             4.Reverse the encoded String.
             5.Encode the string with base 64.
  
- It really stuck in my mind so I had tried to code this.
+ It really stuck in my mind so I had tried to code this. You all can also try this by running code and download the json file for example. I will try to modify and make it useful for many use cases in near future.
  
  Source: https://research.checkpoint.com/2022/check-point-research-detects-crypto-miner-malware-disguised-as-google-translate-desktop-and-other-legitimate-applications/
            
