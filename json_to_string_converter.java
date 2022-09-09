@@ -15,7 +15,7 @@ public class json_to_string_converter {
         System.out.print("Enter the name of the file which you want to convert or access as string: ");
         // take input from user and initialize filName variable
         fileName = sc.nextLine();
-        System.out.print("Enter the laction of the "+fileName+" file: ");
+        System.out.print("Enter the location of the "+fileName+" file: ");
         // take input from user and initialize location variable
         location = sc.nextLine();
         // close scanner class obj
